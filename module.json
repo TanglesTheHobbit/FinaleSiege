@@ -1,0 +1,34 @@
+{
+  "name": "covalon-finalesiege",
+  "title": "Covalon Finale Siege",
+  "description": "The assets and resources required for the Covalon Finale Siege Weekend Event",
+  "author": "Arto Applefield",
+  "authors": [],
+  "flags": {},
+  "version": "0.4",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "covalon-events-finale-siege-actors",
+      "label": "Covalon Events - Finale Siege Actors",
+      "path": "./packs/covalon-events-finale-siege-actors.db",
+      "entity": "Actor",
+      "module": "covalon-finalesiege",
+      "type": "Actor",
+      "private": true
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/TanglesTheHobbit/FinaleSiege/releases/latest/download/module.json",
+  "download": "https://github.com/TanglesTheHobbit/FinaleSiege/releases/download/v0.3/module.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
