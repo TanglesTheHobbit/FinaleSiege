@@ -1,0 +1,22 @@
+{
+    "name": "covalon-finalesiege",
+    "title": "Covalon Finale Siege",
+    "description": "The assets and resources required for the Covalon Finale Siege Weekend Event",
+    "version": "0.1",
+    "author": "Arto Applefield",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+ 	{
+            "name": "covalon-events-finale-siege-actors",
+            "label": "Covalon Events - Finale Siege Actors",
+            "path": "./packs/covalon-events-finale-siege-actors.db",
+            "entity": "Actor",
+            "module": "covalon-finalesiege",
+            "type": "Actor",
+            "private": true
+        }   
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
